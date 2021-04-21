@@ -1,4 +1,4 @@
 # hello-world
 Witam wszystkich!
-Dzisiaj jest środa.
+Dzisiaj jest czwartek.
 Nazywam się Marysia.
